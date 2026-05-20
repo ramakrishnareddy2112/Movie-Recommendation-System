@@ -30,3 +30,11 @@ streamlit run app/app.py
 
 ## Author
 Rama Krishna Reddy
+## Live Demo
+https://movie-recommendation-system-bc3q5wynzmgpwbx8pdjje9.streamlit.app/
+
+## GitHub Repository
+https://github.com/ramakrishnareddy2112/Movie-Recommendation-System
+
+## Author
+Rama Krishna Reddy
