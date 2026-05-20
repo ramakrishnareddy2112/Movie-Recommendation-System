@@ -1,8 +1,8 @@
 import streamlit as st
 import pickle
 
-movies = pickle.load(open('../models/movie_list.pkl', 'rb'))
-similarity = pickle.load(open('../models/similarity.pkl', 'rb'))
+movies = pickle.load(open('models/movie_list.pkl', 'rb'))
+similarity = pickle.load(open('models/similarity.pkl', 'rb'))
 
 st.title('Movie Recommendation System')
 
